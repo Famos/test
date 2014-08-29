@@ -1,6 +1,6 @@
 test
 ====
 
-test de commit
+test de branche
 
 test conflit
